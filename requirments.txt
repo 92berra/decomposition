@@ -1,0 +1,8 @@
+jamo
+opencv-python
+numpy
+pillow
+requests
+scipy
+tqdm
+seaborn
