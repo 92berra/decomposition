@@ -67,18 +67,3 @@ CUDA_VISIBLE_DEVICES=3 python main.py --mode train --output_dir trained_model --
 ```
 CUDA_VISIBLE_DEVICES=3 python main.py --mode test --output_dir tested_model --checkpoint trained_model_add
 ```
-
-<h3>Accuracy quantification</h3>
-
-```
-CUDA_VISIBLE_DEVICES=1 python testing_codes/image-data-seperation.py 
-python testing_codes/computing_ssim.py
-CUDA_VISIBLE_DEVICES=2 python testing_codes/L1L2LossWithoutTensorflow.py
-```
-
-<h3>Check via user interface</h3>
-
-```
-#in the directory tools/ui-test
-python draw-text.py
-```
