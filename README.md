@@ -1,5 +1,7 @@
 <h1>Decompose</h1>
-This repository provides an decomposition method to train and test the Korean Font Generation Model.
+<a href="https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=2acbb96fadd1a450ffe0bdc3ef48d419&keyword=%EC%88%AD%EC%8B%A4%EB%8C%80%20%EC%98%A4%ED%98%84%ED%99%94">Thesis URL</a>
+
+This repository is not completed. Just in progress. 
 
 <br>
 
